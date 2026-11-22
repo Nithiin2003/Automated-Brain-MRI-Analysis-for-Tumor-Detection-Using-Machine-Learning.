@@ -1,0 +1,2 @@
+# Automated-Brain-MRI-Analysis-for-Tumor-Detection-Using-Machine-Learning.
+Brain tumors are among the most critical conditions in medicine — accurate classification directly guides treatment decisions (surgery, radiation, chemotherapy). This project demonstrates how Transfer Learning with a pre-trained ResNet50 can achieve near-perfect classification accuracy on MRI scans, far outperforming a CNN trained from scratch.
